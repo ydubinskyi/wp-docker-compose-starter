@@ -1,0 +1,16 @@
+/*
+!wp-content/
+
+
+!config/
+
+!docker-compose.yml
+!package.json
+!gulpfile.js
+!.gitignore
+!.editorconfig
+!.nvmrc
+
+wp-content/*
+!wp-content/plugins/
+!wp-content/themes/
