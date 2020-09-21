@@ -10,6 +10,7 @@
 !.gitignore
 !.editorconfig
 !.nvmrc
+!README.md
 
 wp-content/*
 !wp-content/plugins/
