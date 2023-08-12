@@ -12,4 +12,4 @@
 
 -   db credentials and ports can be changes inside `docker-compose.yml` file
 
--   attach shell to the wordpress image and run `chmod -R a+rwx ./` to set proper permissions after first run
+-   run ` docker-compose exec wordpress chmod -R a+rwx ./` to set proper permissions after first run
